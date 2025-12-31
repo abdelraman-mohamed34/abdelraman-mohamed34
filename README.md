@@ -68,8 +68,8 @@
   </p>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelraman-mohamed34&theme=tokyonight" height="170" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelraman-mohamed34&theme=tokyonight" height="170" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelraman-mohamed34&theme=tokyonight" height="150" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelraman-mohamed34&theme=tokyonight" height="150" alt="Top Languages" />
   </p>
 
   ---
